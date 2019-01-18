@@ -1,0 +1,23 @@
+{
+  "name": "desafionpm",
+  "version": "1.0.0",
+  "description": "Tentativa de fazer gerenciamento de dependencias com NPM",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fyvon0/desafioNPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fyvon0/desafioNPM/issues"
+  },
+  "homepage": "https://github.com/Fyvon0/desafioNPM#readme"
+}
